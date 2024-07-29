@@ -1,0 +1,2 @@
+start cmd.exe /k "cd /d C:\Program Files\MongoDB\Server\7.0\bin && mongod.exe --dbpath D:\fullstack\react-talento-tech\proyecto-red-social\data-mongodb"
+start cmd.exe /k "cd /d D:\fullstack\react-talento-tech\proyecto-red-social\api-social-network && npm start"
